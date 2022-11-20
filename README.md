@@ -1,6 +1,6 @@
 # חייב להתקין לפני 
-npm install react-icons
-npm i react-router-dom --save
+- npm install react-icons
+- npm i react-router-dom --save
 
 ## מידע כללי
 שם מלא: שמואל זיסקוביץ
